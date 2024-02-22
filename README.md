@@ -1,2 +1,2 @@
-# Trabalho-de-programacao
-Criação de um repositório para o trabalho de programação 
+# Iniciação em linguagens de programação (CSS/HTML)
+Este repositório serve para colocar meu desenvolvimento e aprendizagem no desenvolvimento de um "joguinho".
